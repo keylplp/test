@@ -1,2 +1,3 @@
 # test
-...
+https://mega.nz/#P!AgFymiIAlFpAe9R7DfIPE4O4wPRRk18tW_3I677FJJ7L4fBXkihZ4beyYSrYP0NqmGwJbGD0nBC7Qsm5dg88AeQQ4XGk-RvfM7yfOVApO5eOxu0Bk0pzIJwH8SCRHz54HlFlc6b4eRs
+Steak.bat Launch steam.
